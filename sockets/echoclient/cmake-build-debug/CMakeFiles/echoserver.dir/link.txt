@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/echoserver.dir/main.c.o  -o echoserver 

@@ -1,0 +1,24 @@
+TOKENS
+
+identifiers z.b var names, fkt names
+operands ( ) = + - * / . :
+integers initialised as: "foo = 1."
+strings  initialised as: "bar = 'test'."
+
+SYNTAX
+
+lib = 
+  function > (function || end)
+
+function = 
+  indentifier : var || nothing ( statement > statemen || nothing )
+
+statement = 
+  int operand int .
+  int operand int operand int.
+  
+  string op string.
+  string op string op string.
+  
+  function int || string.
+  .

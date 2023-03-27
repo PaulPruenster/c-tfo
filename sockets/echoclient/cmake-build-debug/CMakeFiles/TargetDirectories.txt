@@ -1,0 +1,3 @@
+/home/nuki/C/sockets/echoclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nuki/C/sockets/echoclient/cmake-build-debug/CMakeFiles/echoclient.dir
+/home/nuki/C/sockets/echoclient/cmake-build-debug/CMakeFiles/edit_cache.dir

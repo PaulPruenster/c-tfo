@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nuki/C/sockets/echoclient/main.c
+stdio.h
+-
+netinet/in.h
+-
+string.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+

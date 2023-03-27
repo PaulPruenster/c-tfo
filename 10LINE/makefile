@@ -1,0 +1,2 @@
+10LINE: 10LINE.c
+	gcc -Wall -o 10LINE 10LINE.c
